@@ -7,7 +7,7 @@ Tablet Tester is a Krita plugin to test Tablet Inputs.
 * Press panel to see input values.
 
 ### Preview
-![Picture](https://raw.githubusercontent.com/EyeOdin/Pigment.O/master/pigment_o/PREVIEWS/pigment_o_02.png)
+![Picture](https://github.com/EyeOdin/tablet_tester/blob/main/tablet_tester/PREVIEW/docker.png?raw=true)
 
 ## Support
 This project will remain Open source and available to all users.\
